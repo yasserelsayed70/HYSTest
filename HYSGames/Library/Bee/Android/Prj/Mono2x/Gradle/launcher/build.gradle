@@ -18,7 +18,7 @@ android {
     defaultConfig {
         minSdkVersion 22
         targetSdkVersion 32
-        applicationId 'com.DefaultCompany.HYSGames'
+        applicationId 'com.DefaultCompany.RunStack'
         ndk {
             abiFilters 'armeabi-v7a'
         }

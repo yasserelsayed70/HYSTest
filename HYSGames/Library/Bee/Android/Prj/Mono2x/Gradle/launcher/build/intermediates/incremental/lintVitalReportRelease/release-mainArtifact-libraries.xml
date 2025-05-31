@@ -1,9 +1,9 @@
 <libraries>
   <library
-      name="C:\Users\7ambola\Documents\HYS\HYSGames\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
-      jars="C:\Users\7ambola\Documents\HYS\HYSGames\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\ccb67008064c26cf24f73fc064d04e24\transformed\out\jars\classes.jar;C:\Users\7ambola\Documents\HYS\HYSGames\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\ccb67008064c26cf24f73fc064d04e24\transformed\out\jars\libs\unity-classes.jar"
+      name="C:\Users\7ambola\Documents\GitHub\HYSTest\HYSGames\Library\Bee\Android\Prj\Mono2x\Gradle@@:unityLibrary::release"
+      jars="C:\Users\7ambola\Documents\GitHub\HYSTest\HYSGames\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\b7840c293869ac68dacd2f8161372431\transformed\out\jars\classes.jar;C:\Users\7ambola\Documents\GitHub\HYSTest\HYSGames\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\b7840c293869ac68dacd2f8161372431\transformed\out\jars\libs\unity-classes.jar"
       resolved="Gradle:unityLibrary:unspecified"
-      folder="C:\Users\7ambola\Documents\HYS\HYSGames\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\ccb67008064c26cf24f73fc064d04e24\transformed\out"
+      folder="C:\Users\7ambola\Documents\GitHub\HYSTest\HYSGames\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\build\.transforms\b7840c293869ac68dacd2f8161372431\transformed\out"
       manifest="AndroidManifest.xml"
       resFolder="res"
       assetsFolder="assets"
@@ -13,7 +13,7 @@
       externalAnnotations="annotations.zip"
       proguardRules="proguard.txt"/>
   <library
-      name="__local_aars__:C:\Users\7ambola\Documents\HYS\HYSGames\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
-      jars="C:\Users\7ambola\Documents\HYS\HYSGames\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
-      resolved="__local_aars__:C:\Users\7ambola\Documents\HYS\HYSGames\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
+      name="__local_aars__:C:\Users\7ambola\Documents\GitHub\HYSTest\HYSGames\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified@jar"
+      jars="C:\Users\7ambola\Documents\GitHub\HYSTest\HYSGames\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar"
+      resolved="__local_aars__:C:\Users\7ambola\Documents\GitHub\HYSTest\HYSGames\Library\Bee\Android\Prj\Mono2x\Gradle\unityLibrary\libs\unity-classes.jar:unspecified"/>
 </libraries>

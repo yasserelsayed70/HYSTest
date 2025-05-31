@@ -1,6 +1,6 @@
 <lint-module
     format="1"
-    dir="C:\Users\7ambola\Documents\HYS\HYSGames\Library\Bee\Android\Prj\Mono2x\Gradle\launcher"
+    dir="C:\Users\7ambola\Documents\GitHub\HYSTest\HYSGames\Library\Bee\Android\Prj\Mono2x\Gradle\launcher"
     name=":launcher"
     type="APP"
     maven="Gradle:launcher:"

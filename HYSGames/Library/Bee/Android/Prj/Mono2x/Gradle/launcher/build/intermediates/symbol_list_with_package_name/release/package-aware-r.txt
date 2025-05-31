@@ -1,4 +1,4 @@
-com.DefaultCompany.HYSGames
+com.DefaultCompany.RunStack
 color staticSplashScreenBackgroundColor
 id unitySurfaceView
 mipmap app_icon

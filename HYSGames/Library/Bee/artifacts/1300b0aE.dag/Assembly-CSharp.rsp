@@ -355,8 +355,11 @@
 -r:"Library/Bee/artifacts/1300b0aE.dag/UnityEngine.UI.ref.dll"
 -analyzer:"C:/Engines/2022.3.10f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.Properties.SourceGenerator.dll"
 -analyzer:"C:/Engines/2022.3.10f1/Editor/Data/Tools/Unity.SourceGenerators/Unity.SourceGenerators.dll"
-"Assets/Scripts/CharactersStack.cs"
-"Assets/Scripts/StackController.cs"
+"Assets/Scripts/Block.cs"
+"Assets/Scripts/NpcStackHolder.cs"
+"Assets/Scripts/StackHandler.cs"
+"Assets/Scripts/StackMovementController.cs"
+"Assets/Scripts/Stickman.cs"
 -langversion:9.0
 
 /deterministic
