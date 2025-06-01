@@ -98,7 +98,6 @@ public class StackHandler : MonoBehaviour
         }
 
     }
-    #endregion
     IEnumerator ResetStackPosition(Stickman firstStickman)
     {
         yield return new WaitForSeconds(0.3f);
@@ -111,4 +110,6 @@ public class StackHandler : MonoBehaviour
         }
         firstStickman.transform.localPosition = Vector3.zero;
     }
+    #endregion
+
 }
